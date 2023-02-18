@@ -1,4 +1,4 @@
-Space Invaders Game
+"Space Invaders Game"
 
 This is a version of the classic retro shooting game, Space Invaders. The game includes the following features:
 
