@@ -1,4 +1,4 @@
-# Space Invaders Game
+# Space Invaders Game in C++
 This is a version of the classic retro shooting game, Space Invaders. The game includes the following features:
 
 Maintains and displays the player's score and lives
