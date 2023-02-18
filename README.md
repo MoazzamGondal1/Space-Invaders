@@ -11,7 +11,7 @@ A high-score feature that records the five highest scores
 ## Controls
 The default key bindings for controlling the game are:
 
-Move up: Up arrow key 
+Move up: Up arrow key <br>
 Move down: Down arrow key 
 Move left: Left arrow key 
 Move right: Right arrow key 
