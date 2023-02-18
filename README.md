@@ -1,5 +1,4 @@
-#Space Invaders Game
-
+# Space Invaders Game
 This is a version of the classic retro shooting game, Space Invaders. The game includes the following features:
 
 Maintains and displays the player's score and lives
@@ -9,8 +8,7 @@ A pause feature (press ESC or P to pause and resume the game)
 A save state feature that allows you to close the game and resume it later
 A high-score feature that records the five highest scores
 
-Controls
-
+## Controls
 The default key bindings for controlling the game are:
 
 Move up: Up arrow key 
@@ -19,5 +17,5 @@ Move left: Left arrow key
 Move right: Right arrow key 
 Shoot: Space bar
 
-Credits
+## Credits
 This game was created as a project by me as part of Programming Fundamentals Course. The game is based on the original Space Invaders game.
