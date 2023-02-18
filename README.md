@@ -12,9 +12,9 @@ A high-score feature that records the five highest scores
 The default key bindings for controlling the game are:
 
 Move up: Up arrow key <br>
-Move down: Down arrow key 
-Move left: Left arrow key 
-Move right: Right arrow key 
+Move down: Down arrow key <br>
+Move left: Left arrow key <br>
+Move right: Right arrow key <br>
 Shoot: Space bar
 
 ## Credits
